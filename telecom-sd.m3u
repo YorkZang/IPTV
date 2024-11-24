@@ -17,7 +17,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-5高清" tvg-name="CCTV-5高清" tvg-logo="https://ghp.ci/raw.githubusercontent.com/YorkZang/IPTV/main/img/CCTV-5.png" group-title="",CCTV-5高清
 http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+高清" tvg-name="CCTV-5+高清" tvg-logo="https://ghp.ci/raw.githubusercontent.com/YorkZang/IPTV/main/img/CCTV-5+.png" group-title="",CCTV-5+高清
+#EXTINF:-1 tvg-id="CCTV-5+高清" tvg-name="CCTV-5+高清" tvg-logo="https://ghp.ci/raw.githubusercontent.com/YorkZang/IPTV/main/img/CCTV-5.png" group-title="",CCTV-5+高清
 http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-6高清" tvg-name="CCTV-6高清" tvg-logo="https://ghp.ci/raw.githubusercontent.com/YorkZang/IPTV/main/img/CCTV-6.png" group-title="",CCTV-6高清
 http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8
@@ -227,8 +227,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000642/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00003001/index.m3u8
 #EXTINF:-1 tvg-id="山东广播电视台交通广播" tvg-name="山东广播电视台交通广播" tvg-logo="https://ghp.ci/raw.githubusercontent.com/YorkZang/IPTV/main/img/山东广播电视台交通广播.png" group-title="",山东广播电视台交通广播
 http://150.138.8.143/00/SNM/CHANNEL00003002/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://ghp.ci/raw.githubusercontent.com/YorkZang/IPTV/main/img/CCTV-1.png" group-title="",CCTV-1
-http://150.138.8.143/00/SNM/CHANNEL00000001/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://ghp.ci/raw.githubusercontent.com/YorkZang/IPTV/main/img/浙江卫视.png" group-title="",浙江卫视
 http://150.138.8.143/00/SNM/CHANNEL00000016/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://ghp.ci/raw.githubusercontent.com/YorkZang/IPTV/main/img/东方卫视.png" group-title="",东方卫视
