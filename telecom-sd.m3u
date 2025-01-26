@@ -266,3 +266,15 @@ http://150.138.8.143/00/SNM/CHANNEL00000332/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000711/index.m3u8
 #EXTINF:-1 tvg-id="居家购物" tvg-name="居家购物" tvg-logo="https://ghp.ci/raw.githubusercontent.com/YorkZang/IPTV/main/img/居家购物.png" group-title="其它",居家购物
 http://150.138.8.143/00/SNM/CHANNEL00000700/index.m3u8
+#EXTINF:-1 tvg-id="CNAnews-HD（新加坡）" tvg-name="CNAnews-HD（新加坡）" group-title="国际",CNAnews-HD（新加坡）
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="FOXNews（美国）" tvg-name="FOXNews（美国）" group-title="国际",FOXNews（美国）
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NEWS NOW" tvg-name="NEWS NOW" group-title="国际",NEWS NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Ameritrade Network" tvg-name="Ameritrade Network" group-title="国际",美国 TD Ameritrade Network
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1 tvg-id="Newsmax TV（美国）" tvg-name="Newsmax TV（美国）" group-title="国际",美国Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="新加坡" tvg-name="新加坡" group-title="国际",新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
